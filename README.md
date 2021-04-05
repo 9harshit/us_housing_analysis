@@ -51,6 +51,8 @@
   - House price has highest corelation with price per sqaure feet naturally and least with hospital rating in the area.
   - House price have good relation with schools displaying hosue buyers tendacy to buy house near schools.
 
+  - Further plotting also shows that large and poplulus state like Texas and California have highest number of hospitals and school. But Median income of Texas is less than California which is why house prices in Texas is less in comparision California, but more in comparision to other state with similar income. (Diagram present in python notebook.)
+
 
 ## Model Building
 
