@@ -70,6 +70,9 @@
     - Random Forest Regressor: R2 Score = 0.72
     - Xgboost: R2 Score = 0.44
 
+## Notes 
+ - Deeper analysis can be done by income of households, type of families and their background, other factors like type of schools (public or private) etc.
+ - Study can be done from city based on aggregate to county and aggregating to analysis state wise trends
 
 ### Links to Raw Dataset
 
